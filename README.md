@@ -5,7 +5,7 @@
 
 ## 📄 Descrição do Projeto
 
-Esta aplicação consiste em uma API REST para o sistema de gerenciamento de pessoas de uma universidade. A atividade tem como objetivo aplicar os conhecimentos de desenvolvimento com Spring Boot e persistência de dados com MySQL.
+Esta aplicação consiste em uma API REST para o sistema de gerenciamento de pessoas de uma universidade. Tem como objetivo aplicar os conhecimentos de desenvolvimento com Spring Boot e persistência de dados com MySQL.
 
 A única entidade do sistema é **Pessoa**, que possui os seguintes atributos:
 
