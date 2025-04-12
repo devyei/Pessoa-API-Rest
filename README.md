@@ -3,9 +3,9 @@
 
 # API de Gerenciamento de Pessoas
 
-Dupla:
-Eduardo Melo 01706118
-Alisson Santos 01633244
+Eduardo Melo — 01706118
+
+Alisson Santos — 01633244
 
 ## 📄 Descrição do Projeto
 
